@@ -1,5 +1,5 @@
 
-# settings/local.py
+# settings/local.py hello
 
 __author__ = 'adamsimon'
 

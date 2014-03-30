@@ -5,19 +5,15 @@ __author__ = 'adamsimon'
 
 from .base import *
 
-# Build paths inside the project like this: os.path.join(BASE_DIR, ...)
-import os
-
-BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 import json
-
 from django.core.exceptions import ImproperlyConfigured
 
 # secrets 2 scoops page 49
 
-secretfilename = os.path.join(BASE_DIR, "settings/secrets.json")
-with open(secretfilename) as f:
+secretlocater = Path(BASE_DIR).child("settings","secrets.json").resolve()
+
+with open(secretlocater) as f:
 	secrets = json.loads(f.read())
 
 def get_secret(setting, secrets=secrets):

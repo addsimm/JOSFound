@@ -11,7 +11,7 @@ from django.core.exceptions import ImproperlyConfigured
 
 # secrets 2 scoops page 49
 
-secretlocater = Path(BASE_DIR).child("settings","secrets.json").resolve()
+secretlocater = Path(BASE_DIR).child("settings","secrets.json")
 
 with open(secretlocater) as f:
 	secrets = json.loads(f.read())

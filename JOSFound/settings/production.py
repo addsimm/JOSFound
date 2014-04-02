@@ -5,13 +5,13 @@ __author__ = 'adamsimon'
 from .base import *
 
 import os
+from django.core.exceptions import ImproperlyConfigured
 
 # secrets 2 scoops page 49
 
-from django.core.exceptions import ImproperlyConfigured
 
 def get_env_variable(var_name):
-	"""Get the enviroment variable or return exception."""
+	"""Get the environment variable or return exception."""
 	try:
 		return os.environ[var_name]
 	except KeyError:

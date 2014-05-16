@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5948eb95-6f52-4874-bfc8-2826a46c0ee3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/adamsimon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JOSFound/requirements/base.txt" afterPath="$PROJECT_DIR$/JOSFound/requirements/base.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JOSFound/requirements/staging.txt" afterPath="$PROJECT_DIR$/JOSFound/requirements/staging.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html" afterPath="$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JOSFound/settings.py" />
@@ -26,39 +24,15 @@
   <component name="FavoritesManager">
     <favorites_list name="JOSFound" />
   </component>
+  <component name="FileColors">
+    <fileColor scope="Project Files" color="Blue" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="production.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JOSFound/requirements/production.txt">
+      <file leaf-file-name="JOSHome.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="1" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="staging.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JOSFound/requirements/staging.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="local.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JOSFound/requirements/local.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="1" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JOSFound/requirements/base.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.12559809" vertical-offset="0" max-vertical-offset="836">
+            <state line="20" column="6" selection-start="523" selection-end="523" vertical-scroll-proportion="0.35669586" vertical-offset="15" max-vertical-offset="1470">
               <folding />
             </state>
           </provider>
@@ -90,7 +64,6 @@
         <option value="$PROJECT_DIR$/JOSFound/requirements/local.txt" />
         <option value="$PROJECT_DIR$/JOSFound/requirements/production.txt" />
         <option value="$PROJECT_DIR$/JOSFound/templates/JOSHome/home.html" />
-        <option value="$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html" />
         <option value="$PROJECT_DIR$/JOSHome/views.py" />
         <option value="$PROJECT_DIR$/JOSFound/settings/base.py" />
         <option value="$PROJECT_DIR$/JOSFound/settings/production.py" />
@@ -99,13 +72,14 @@
         <option value="$PROJECT_DIR$/JOSFound/urls.py" />
         <option value="$PROJECT_DIR$/JOSFound/requirements/base.txt" />
         <option value="$PROJECT_DIR$/JOSFound/requirements/staging.txt" />
+        <option value="$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="130" />
-    <option name="y" value="22" />
-    <option name="width" value="1448" />
+    <option name="x" value="1637" />
+    <option name="y" value="346" />
+    <option name="width" value="1328" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -303,7 +277,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.lastSelected" value="fileColors" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.40965518" />
     <property name="options.searchVisible" value="true" />
@@ -313,6 +287,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/Programming/Django/jumpindjango" />
     <property name="SearchEverywhereHistory" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="LayoutCode.rearrangeEntriesDjangoTemplate" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -595,19 +570,23 @@
       <created>1396402054665</created>
       <updated>1396402054665</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Changed requirements.txt">
+      <created>1397332765871</created>
+      <updated>1397332765871</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="22" width="1448" height="980" extended-state="0" />
+    <frame x="1637" y="346" width="1328" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.4110953" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896304" sideWeight="0.4110953" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.49871245" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24976167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1685633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24975657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21539658" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5004292" order="7" side_tool="true" content_ui="tabs" />
@@ -615,12 +594,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.49957082" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.49952334" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.49952334" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39930555" sideWeight="0.5889047" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39930555" sideWeight="0.5889047" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -661,7 +640,8 @@
     <MESSAGE value="Uploaded setting files." />
     <MESSAGE value="Uploaded requirements files." />
     <MESSAGE value="Uploaded developer branch with completed homepage and html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded developer branch with completed homepage and html" />
+    <MESSAGE value="Changed requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed requirements.txt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -669,86 +649,116 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="4" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JOSFound/settings/production.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JOSFound/settings/staging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JOSFound/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/adamsimon.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JOSHome/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="42" column="4" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.0" vertical-offset="283" max-vertical-offset="1140" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="0" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.0" vertical-offset="922" max-vertical-offset="1350">
+        <state line="84" column="0" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JOSFound/settings/local.py">
+    <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JOSHome/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JOSHome/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
+        <state line="10" column="7" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="800" selection-end="800" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1170">
+        <state line="42" column="4" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="0" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/requirements/production.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/requirements/staging.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/requirements/local.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/requirements/base.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="4" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/settings/production.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/settings/staging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/adamsimon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="12" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSHome/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="195" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="0" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.0" vertical-offset="922" max-vertical-offset="1350" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/local.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="810">
-          <folding />
-        </state>
+        <state line="31" column="0" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSHome/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSHome/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="800" selection-end="800" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/settings/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/secrets.json">
@@ -758,16 +768,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="55" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
-          <folding />
-        </state>
+        <state line="5" column="55" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="22" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-          <folding />
-        </state>
+        <state line="30" column="22" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/urls.py">
@@ -810,35 +816,14 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="96" selection-end="96" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="0" selection-start="2394" selection-end="2394" vertical-scroll-proportion="0.0" vertical-offset="922" max-vertical-offset="1350">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JOSHome/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="6" column="4" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JOSFound/settings/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="4" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.0" vertical-offset="467" max-vertical-offset="1140">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/secrets.json">
@@ -848,23 +833,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/local.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="31" column="0" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/production.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/settings/staging.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSHome/tests.py">
@@ -874,56 +853,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.25119618" vertical-offset="0" max-vertical-offset="836">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.25119618" vertical-offset="0" max-vertical-offset="836" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/dictionaries/adamsimon.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="358" selection-end="358" vertical-scroll-proportion="0.2955665" vertical-offset="0" max-vertical-offset="812">
-          <folding />
-        </state>
+        <state line="16" column="12" selection-start="358" selection-end="358" vertical-scroll-proportion="0.2955665" vertical-offset="0" max-vertical-offset="812" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSHome/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.05382775" vertical-offset="0" max-vertical-offset="836">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.05382775" vertical-offset="0" max-vertical-offset="836" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSHome/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="491">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="491" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/requirements/production.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="1" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="1" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/requirements/staging.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/requirements/local.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="1" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="1" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JOSFound/requirements/base.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.12559809" vertical-offset="0" max-vertical-offset="836">
+        <state line="7" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.1294698" vertical-offset="0" max-vertical-offset="811" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="4" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.6297641" vertical-offset="283" max-vertical-offset="1140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="96" selection-end="96" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOSFound/templates/JOSHome/JOSHome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="6" selection-start="523" selection-end="523" vertical-scroll-proportion="0.35669586" vertical-offset="15" max-vertical-offset="1470">
           <folding />
         </state>
       </provider>
